@@ -14,3 +14,7 @@ Departament d’Educació
 Desenvolupar, implantar i mantenir aplicacions web, amb
 independència del model emprat i utilitzant tecnologies específiques, garantint l’accés a les dades de forma
 segura i complint els criteris d’accessibilitat, usabilitat i qualitat exigides en els estàndards establerts.
+### **Capacitats clau**
+Les capacitats clau són les capacitats transversals que afecten diferents llocs de treball i que són transferibles a noves situacions
+de treball. Algunes d'aquestes són les d’autonomia, d’innovació, d’organització del treball (com ara la priorització de tasques), de
+responsabilitat (com ara complir amb els plaços d'entraga d'un projecte), de relació interpersonal, de treball en equip (com ara en el desenvolupament d'una aplicació amb diversos programadors) i de resolució de problemes.
