@@ -32,3 +32,5 @@ responsabilitat (com ara complir amb els plaços d'entraga d'un projecte), de re
 | Mòdul professional 9: Disseny d’interfícies web | 99 |
 | Mòdul professional 10: Formació i orientació laboral | 99 |
 | Mòdul professional 11: Empresa i iniciativa emprenedora | 99 |
+### **Sortides laborals**
+programador web, programador multimedia i expert en anàlisi web.
