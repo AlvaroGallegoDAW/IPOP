@@ -18,3 +18,17 @@ segura i complint els criteris d’accessibilitat, usabilitat i qualitat exigide
 Les capacitats clau són les capacitats transversals que afecten diferents llocs de treball i que són transferibles a noves situacions
 de treball. Algunes d'aquestes són les d’autonomia, d’innovació, d’organització del treball (com ara la priorització de tasques), de
 responsabilitat (com ara complir amb els plaços d'entraga d'un projecte), de relació interpersonal, de treball en equip (com ara en el desenvolupament d'una aplicació amb diversos programadors) i de resolució de problemes.
+### **Mòduls professionals**
+| Mòduls professionals | Hores de durada |
+| -------- | ------- |
+| Mòdul professional 1: Sistemes informàtics | 198 |
+| Mòdul professional 2: Bases de dades | 231 |
+| Mòdul professional 3: Programació | 297 |
+| Mòdul professional 4: Llenguatge de marques i sistemes de gestió de la informació | 99 |
+| Mòdul professional 5: Entorns de desenvolupament | 66 |
+| Mòdul professional 6: Desenvolupament web en entorn client | 165 |
+| Mòdul professional 7: Desenvolupament web en entorn servidor | 165 |
+| Mòdul professional 8: Desplegament d’aplicacions web | 99 |
+| Mòdul professional 9: Disseny d’interfícies web | 99 |
+| Mòdul professional 10: Formació i orientació laboral | 99 |
+| Mòdul professional 11: Empresa i iniciativa emprenedora | 99 |
