@@ -33,4 +33,10 @@ responsabilitat (com ara complir amb els plaços d'entraga d'un projecte), de re
 | Mòdul professional 10: Formació i orientació laboral | 99 |
 | Mòdul professional 11: Empresa i iniciativa emprenedora | 99 |
 ### **Sortides laborals**
-programador web, programador multimedia i expert en anàlisi web.
+Programador web, programador multimedia i expert en anàlisi web.
+### **Llocs de treball**
+Locomotive, MEL IT Technologies i Sisteplant
+### **Competències personals**
+Habilitats comunicatives, de treball en equip, de resolució de problemes i d'organització.
+### **Competències professionals**
+Coneixements informàtics, de l'idioma anglès i de diversos llengutages de programació, capacitat de detecció d'errors.
