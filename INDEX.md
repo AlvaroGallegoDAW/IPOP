@@ -40,3 +40,12 @@ Locomotive, MEL IT Technologies i Sisteplant
 Habilitats comunicatives, de treball en equip, de resolució de problemes i d'organització.
 ### **Competències professionals**
 Coneixements informàtics, de l'idioma anglès i de diversos llengutages de programació, capacitat de detecció d'errors.
+### **Qualificacions professionals**
+| Qualificació professional | Unitats de competència | Mòduls professionals |
+| -------- | ------- | -------- |
+|  |  |  |
+|  |  |  |
+| **Àrea de coneixement** |
+|  |  |  |
+| **Ocupacions relacionades** |
+|  |  |  |
