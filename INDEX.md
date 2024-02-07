@@ -43,8 +43,8 @@ Coneixements informàtics, de l'idioma anglès i de diversos llengutages de prog
 ### **Qualificacions professionals**
 | Qualificació professional | Unitats de competència | Mòduls professionals |
 | -------- | ------- | -------- |
-|  |  |  |
-|  |  |  |
+| Completa |  |  |
+| Desenvolupament d’aplicacions amb tecnologies web | UC0491_3: desenvolupar elements software a l’entorn client  UC0492_3: desenvolupar elements software a l’entorn servidor  UC0493_3: implementar, verificar i documentar aplicacions web en entorns internet, intranet i extranet |  |
 | **Àrea de coneixement** |
 |  |  |  |
 | **Ocupacions relacionades** |
