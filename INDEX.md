@@ -49,3 +49,21 @@ Coneixements informàtics, de l'idioma anglès i de diversos llengutages de prog
 |  |  |  |
 | **Ocupacions relacionades** |
 |  |  |  |
+
+| Qualificació professional | Unitats de competència | Mòduls professionals |
+| -------- | ------- | -------- |
+| Incompleta |  |  |
+| Programació en llenguatges estructurats d’aplicacions de gestió | UC0223_3: configurar i explotar sistemes informàtics  UC0226_3: programar bases de dades relacionals |  |
+| **Àrea de coneixement** |
+|  |  |  |
+| **Ocupacions relacionades** |
+|  |  |  |
+
+| Qualificació professional | Unitats de competència | Mòduls professionals |
+| -------- | ------- | -------- |
+| Incompleta |  |  |
+| Programació amb llenguatges orientats a objectes i bases de dades relacionals | UC0223_3: configurar i explotar sistemes informàtics  UC0226_3: programar bases de dades relacionals |  |
+| **Àrea de coneixement** |
+|  |  |  |
+| **Ocupacions relacionades** |
+|  |  |  |
