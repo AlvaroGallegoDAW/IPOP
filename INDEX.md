@@ -49,7 +49,7 @@ Coneixements informàtics, de l'idioma anglès i de diversos llengutages de prog
 | **Àrea de coneixement** |
 |  |  |  |
 | **Ocupacions relacionades** |
-|  |  |  |
+| Programador/a multimèdia  Programador/a web |  |  |
 
 | Qualificació professional | Unitats de competència | Mòduls professionals |
 | -------- | ------- | -------- |
@@ -58,7 +58,7 @@ Coneixements informàtics, de l'idioma anglès i de diversos llengutages de prog
 | **Àrea de coneixement** |
 |  |  |  |
 | **Ocupacions relacionades** |
-|  |  |  |
+| Analista-Programador/a, nivell mig  Programador/a informàtic/a d'aplicacions de gestió amb llenguatges estructurats |  |  |
 
 | Qualificació professional | Unitats de competència | Mòduls professionals |
 | -------- | ------- | -------- |
@@ -67,4 +67,4 @@ Coneixements informàtics, de l'idioma anglès i de diversos llengutages de prog
 | **Àrea de coneixement** |
 |  |  |  |
 | **Ocupacions relacionades** |
-|  |  |  |
+| Administrador/a d'equips informàtics  Programador/a amb llenguatges orientats a objectes  Programador/a d'aplicacions de gestió  Programador/a de bases de dades relacionals  Tècnic/a en Data Mining (mineria de dades) |  |  |
