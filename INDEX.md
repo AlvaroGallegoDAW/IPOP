@@ -47,7 +47,7 @@ Coneixements informàtics, de l'idioma anglès i de diversos llengutages de prog
 | Desenvolupament d’aplicacions amb tecnologies web | UC0491_3: desenvolupar elements software a l’entorn client  UC0492_3: desenvolupar elements software a l’entorn servidor  UC0493_3: implementar, verificar i documentar aplicacions web en entorns internet, intranet i extranet | Programació web a l'entorn client. 
  Programació web a l'entorn servidor.  Implantació d'aplicacions web en entorns d'internet, intranet i extranet. |
 | **Àrea de coneixement** |
-|  |  |  |
+| desenvolupament d'aplicacions fent ús de tecnologies web |  |  |
 | **Ocupacions relacionades** |
 | Programador/a multimèdia  Programador/a web |  |  |
 
@@ -56,7 +56,8 @@ Coneixements informàtics, de l'idioma anglès i de diversos llengutages de prog
 | Incompleta |  |  |
 | Programació en llenguatges estructurats d’aplicacions de gestió | UC0223_3: configurar i explotar sistemes informàtics  UC0226_3: programar bases de dades relacionals | Sistemes operatius i aplicacions informàtiques.  Programació de bases de dades relacionals.  Programació en llenguatges estructurats. |
 | **Àrea de coneixement** |
-|  |  |  |
+| administració
+de bases de dades |  |  |
 | **Ocupacions relacionades** |
 | Analista-Programador/a, nivell mig  Programador/a informàtic/a d'aplicacions de gestió amb llenguatges estructurats |  |  |
 
@@ -65,6 +66,7 @@ Coneixements informàtics, de l'idioma anglès i de diversos llengutages de prog
 | Incompleta |  |  |
 | Programació amb llenguatges orientats a objectes i bases de dades relacionals | UC0223_3: configurar i explotar sistemes informàtics  UC0226_3: programar bases de dades relacionals | Sistemes operatius i aplicacions informàtiques.  Programació de bases de dades relacionals.  Programació orientada a objectes. |
 | **Àrea de coneixement** |
-|  |  |  |
+| anàlisis, disseny i construcció d'aplicacions
+informàtiques |  |  |
 | **Ocupacions relacionades** |
 | Administrador/a d'equips informàtics  Programador/a amb llenguatges orientats a objectes  Programador/a d'aplicacions de gestió  Programador/a de bases de dades relacionals  Tècnic/a en Data Mining (mineria de dades) |  |  |
